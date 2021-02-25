@@ -99,9 +99,9 @@ contact:
   title: Contact Us
   description: Lorem ipsum dolor sit amet consectetur.
 contact-list:
-- title: envelope-alt
+- title: envelope
   url: mailto:someone@example.com
-- title: phone-sign
+- title: phone
   url: tel:123-456-7890
 - title: whatsapp
   url: https://wa.me/1234567890
